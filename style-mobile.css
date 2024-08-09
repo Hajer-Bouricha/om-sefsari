@@ -1,0 +1,10 @@
+header{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.title{
+  text-align: center;
+}
+.offer-list{
+  flex-wrap: wrap;
+}
